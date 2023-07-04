@@ -1,4 +1,4 @@
-# Nom de l'application
+# Sync Event
 
 ## Description
 L'application est une solution de gestion d'événements qui vise à simplifier et à automatiser le processus de planification, d'organisation et de suivi des événements. Que ce soit pour des conférences, des mariages, des fêtes d'anniversaire ou tout autre type d'événement, cette application offre une gamme complète de fonctionnalités pour faciliter la gestion globale.
